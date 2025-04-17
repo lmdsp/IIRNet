@@ -88,5 +88,6 @@ urllib3
 wcwidth
 webencodings
 Werkzeug
+wget
 widgetsnbextension
 zipp
